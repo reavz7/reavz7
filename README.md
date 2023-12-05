@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reavz7
+- 👀 I’m interested in front-end development for applications to create a professional appearance.
+- 🌱 I’m currently learning HTML, CSS, and React.
+- 💞️ I’m looking to collaborate on front-end projects that showcase my skills and contribute to creating visually appealing applications.
+- 📫 How to reach me:(mailto:stepienmontaz@gmail.com)
