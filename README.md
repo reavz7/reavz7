@@ -3,7 +3,7 @@
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 
-- 🔭 I’m currently working on [Pokemon Web API](https://github.com/reavz7/PokemonWEBAPI) and [Balanz](https://github.com/reavz7/Balanz)
+- 🔭 I’am currently working on learning Web APIs in my workplace
 
 - 🌱 I’m currently learning **ASP.NET Web API**
 
