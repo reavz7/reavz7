@@ -3,10 +3,9 @@
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 
-- 🔭 I’am currently working on ****
+- 🔭 I’am currently working on **WEB API in my workplace**
 
 - 🌱 I’m currently learning **JavaScript**
-- ![image](https://github.com/user-attachments/assets/4893febf-13f4-4a6d-a8a4-8311e0aaffe0)
 
 - 💬 Ask me about **C#, HTML, CSS, Video Editing**
 
@@ -48,6 +47,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=reavz7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+- ![image](https://github.com/user-attachments/assets/4893febf-13f4-4a6d-a8a4-8311e0aaffe0)
 
 ###
 
