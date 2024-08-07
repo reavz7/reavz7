@@ -46,9 +46,7 @@
   
 </div>
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=reavz7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  
-   ![image](https://github.com/user-attachments/assets/6324b2eb-210e-487b-9a2d-2d3844d9da3b)  
-  />
+  <img src="https://streak-stats.demolab.com?user=reavz7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  
 
 </div>
