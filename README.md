@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate C# developer from Poland</h3>
+<h3 align="center">A passionate frontend developer from Poland</h3>  
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 
-- 🔭 I’am currently working on Web APIs in my workplace
+- 🔭 I’am currently working on ****
 
-- 🌱 I’m currently learning **ASP.NET Web API**
+- 🌱 I’m currently learning **JavaScript**
+- ![image](https://github.com/user-attachments/assets/4893febf-13f4-4a6d-a8a4-8311e0aaffe0)
 
 - 💬 Ask me about **C#, HTML, CSS, Video Editing**
 
