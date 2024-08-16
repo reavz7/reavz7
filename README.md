@@ -5,6 +5,8 @@
 
 - 🔭 I’am currently working on **WEB API in my workplace**
 
+- 🎯 I want to become a **Frontend Developer** 
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C#, HTML, CSS, Video Editing**
