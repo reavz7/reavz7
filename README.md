@@ -3,7 +3,7 @@
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 
-- 🔭 I’am currently working on **WEB API in my workplace**
+- 🔭 I’am currently working on **API in my workplace**
 
 - 🎯 I want to become a **Frontend Developer** 
 
