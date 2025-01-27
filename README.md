@@ -7,7 +7,7 @@
 
 - 🎯 I want to become a **Frontend Developer** 
 
-- 🌱 I’m currently learning **React.js** and **integration with API**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **C#, HTML, CSS, Video Editing**
 
