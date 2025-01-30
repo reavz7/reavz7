@@ -14,7 +14,7 @@
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
 - ⚡ Fun fact **I'm a good cook**
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
