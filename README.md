@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
+- 🧑‍💼 My resume: [cvstepien (1).pdf](https://github.com/user-attachments/files/18664658/cvstepien.1.pdf)
+
 - ⚡ Fun fact **I'm a good cook**
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
