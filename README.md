@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
-- 🧑‍💼 My resume: [click me!.pdf](https://github.com/user-attachments/files/18664681/click.me.pdf)
+- 🧑‍💼 My resume: [stepien_resume.pdf](https://github.com/user-attachments/files/18664683/stepien_resume.pdf)
 
 - ⚡ Fun fact **I'm a good cook**
 <h3 align="left">Languages and Tools</h3>
