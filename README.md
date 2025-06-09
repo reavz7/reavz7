@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
-- 🧑‍💼 My resume: [CV-STEPIEN.pdf](https://github.com/user-attachments/files/19262405/CV-STEPIEN.pdf)
+- 🧑‍💼 My resume: [STEPIEN_FRONTEND_DEV_CV.pdf](https://github.com/user-attachments/files/20651811/STEPIEN_FRONTEND_DEV_CV.pdf)
+
 
 
 - ⚡ Fun fact **I'm a good cook**
