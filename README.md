@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **C#, HTML, CSS, Video Editing**
+- 💬 Ask me about **C#, HTML, CSS, JS, Video Editing**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
 - 🧑‍💼 My resume: [STEPIEN_FRONTEND_DEV_CV.pdf](https://github.com/user-attachments/files/20651811/STEPIEN_FRONTEND_DEV_CV.pdf)
 
 
-
-- ⚡ Fun fact **I'm a good cook**
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
