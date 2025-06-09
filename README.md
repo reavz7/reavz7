@@ -5,8 +5,6 @@
 
 - 🔭 I’am currently working on **EatCheap** project
 
-- 🎯 I want to become a **Frontend Developer** 
-
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **C#, HTML, CSS, Video Editing**
