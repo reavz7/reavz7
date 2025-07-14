@@ -3,11 +3,11 @@
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 
-- 🔭 I’am currently working on **EatCheap** project
+- 🔭 I’am currently working on **DrzwiKoziol** project
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **C#, HTML, CSS, JS, Video Editing**
+- 💬 Ask me about **C#, HTML, CSS, JS, React**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
