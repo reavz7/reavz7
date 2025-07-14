@@ -4,9 +4,9 @@
 
 - 🎓 Bachelor’s degree in **Business Informatics**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 💻  **JavaScript | React.js | C# | SQL | HTML | CSS**
+
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
