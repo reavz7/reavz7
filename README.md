@@ -2,12 +2,11 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>  
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
-
-- 🔭 I’am currently working on **DrzwiKoziol** project
+- 🎓 Bachelor’s degree in **Business Informatics**
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **C#, HTML, CSS, JS, React**
+- 💻  **JavaScript | React.js | C# | SQL | HTML | CSS**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
