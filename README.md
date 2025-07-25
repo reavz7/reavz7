@@ -4,7 +4,7 @@
 
 - 🎓 Bachelor’s degree in **Business Informatics**
 
-- 💻  ** NextJS | React.js | Typescript | JavaScript | HTML | CSS | C# | SQL**
+- 💻  **NextJS | React.js | Typescript | JavaScript | HTML | CSS | C# | SQL**
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql.svg" height="40" alt="sql logo"  />
 
 </div>
 <h3 align="left">Connect with me</h3>
