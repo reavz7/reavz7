@@ -4,7 +4,7 @@
 
 - 🎓 Bachelor’s degree in **Business Informatics**
 
-- 💻  **  NextJS | React.js | Typescript | JavaScript | HTML | CSS | C# | SQL **
+- 💻  ** NextJS | React.js | Typescript | JavaScript | HTML | CSS | C# | SQL**
 
 - 🌱 I’m currently learning **Typescript**
 
