@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>  
+<h3 align="center">A passionate software developer from Poland</h3>  
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 - 🎓 Bachelor’s degree in **Business Informatics**
 
-- 💻  **NextJS | React.js | Typescript | JavaScript | HTML | CSS | C# | SQL**
+- 💻  **C# | SQL | React.js | Typescript | JavaScript | HTML | CSS | C#**
 
 - 🌱 I’m currently learning **Typescript**
 
