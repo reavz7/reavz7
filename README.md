@@ -6,7 +6,7 @@
 
 - 💻  **C# | SQL | React.js | Typescript | JavaScript | HTML | CSS | C#**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
