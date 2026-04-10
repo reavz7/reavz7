@@ -2,11 +2,12 @@
 <h3 align="center">A passionate software developer from Poland</h3>  
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
-- 🎓 Bachelor’s degree in **Business Informatics**
+- 🎓✅ Bachelor’s degree in **Business Informatics**
+- 🎓⏳ Soon Master's degree in **Computer Science**   
 
-- 💻  **C# | SQL | React.js | Typescript | JavaScript | HTML | CSS | C#**
+- 💻  **C# | SQL | React.js | Typescript | JavaScript | HTML | CSS | C#**  
 
-- 🌱 I’m currently learning **.NET**
+- 👨‍💼 CTO of **niespodziankamuzyczna.pl**
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
