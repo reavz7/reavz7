@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate software developer from Poland</h3>  
+<h3 align="center">A passionate technical business analyst from Poland</h3>  
 <img align="right" alt="reavzCoding" width="400" src="https://thealiraza.com/wp-content/uploads/2023/11/Ali-Raza2-export.gif">
 
 - 🎓✅ Bachelor’s degree in **Business Informatics**
@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
-- 🧑‍💼 My resume: [STEPIEN_FRONTEND_DEV_CV.pdf](https://github.com/user-attachments/files/20651811/STEPIEN_FRONTEND_DEV_CV.pdf)
+- 🧑‍💼 My resume: [Business_Analyst_Stępień_CV.pdf](https://github.com/user-attachments/files/26625133/Business_Analyst_Stepien_CV.pdf)
+
 
 
 <h3 align="left">Languages and Tools</h3>
