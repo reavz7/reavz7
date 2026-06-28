@@ -5,7 +5,7 @@
 - 🎓✅ Bachelor’s degree in **Business Informatics**
 - 🎓⏳ Soon Master's degree in **Computer Science**   
 
-- 💻  **C# | Java | Python |SQL | React | Typescript | JavaScript | HTML | CSS**  
+- 💻  **C# | Java | Python | SQL | React | Typescript | JavaScript | HTML | CSS**  
 
 - 👨‍💼 CTO of **niespodziankamuzyczna.pl**
 
