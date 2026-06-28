@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **stepienmontaz@gmail.com**
 
-- 🧑‍💼 My resume: [CV_STEPIEN_KAMIL.pdf]([Stępień_Kamil_CV.pdf](https://github.com/user-attachments/files/29437726/Stepien_Kamil_CV.pdf)
+- 🧑‍💼 My resume: [Stępień_Kamil_CV.pdf](https://github.com/user-attachments/files/29437740/Stepien_Kamil_CV.pdf)
+
 
 
 
